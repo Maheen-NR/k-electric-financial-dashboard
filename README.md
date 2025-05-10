@@ -1,7 +1,13 @@
 # KE Financial Performance (2018-2023)
 
 ## Overview
-This repository contains a PDF dashboard summarizing KE's financial performance from 2018 to 2023, including revenue, net profit, assets, and cash flows.
+This project analyzes K-Electric's financial performance (2018-2023) in multiple formats:
+
+| File Type       | Purpose                          | Files Included |
+|-----------------|----------------------------------|----------------|
+| **Power BI** (.pbix) | Interactive dashboard with all calculations | `K-Electric Financial Health (2018-2023).pbix` |
+| **PDF Export**  | Static report for quick viewing  | `K-Electric Financial Insight.pdf` |
+| **Screenshots** (.png) | Preview of key dashboard pages | `dashboard-overview.png`<br>`dashboard-balance-sheet.png`<br>`dashboard-cashflows.png`<br>`dashboard-ratios.png`<br>`dashboard-financial-statement.png` |
 
 ## Contents
 1. **Dashboard**: Revenue, Net Profit, Assets, Debt-to-Equity, and trends (2018–2023).
